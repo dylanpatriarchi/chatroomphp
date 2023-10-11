@@ -1,0 +1,20 @@
+#chatbox {
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#chat-content {
+    height: 200px;
+    overflow-y: scroll;
+}
+
+#message {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#send {
+    margin-top: 10px;
+}
